@@ -1,0 +1,40 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: d7d6ff;
+  
+}
+
+h5{
+  color: #ff4dc6;
+  font-weight: bold;
+}
+p{
+  color:  #4a55ed;
+font-weight: bold;
+}
+h2{
+  color:  #ff4dc6;
+
+}
+h1{
+color: #ff4dc6
+
+  ;}
+.link{
+  color: #4d0efb;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+body{
+  background-color: #d7d6ff;
+  font-family: 'Oleo Script', cursive;
+}
+
+
+
+
+
